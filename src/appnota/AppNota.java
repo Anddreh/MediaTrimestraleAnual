@@ -1,6 +1,6 @@
 package appnota;
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class AppNota {
     public static void main(String[] args) {
